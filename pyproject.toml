@@ -15,6 +15,11 @@ readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
   "Pillow>=10.0.1",
+  "pandas",
+  "pysolar",
+  "pytz",
+  "matplotlib",
+  "seaborn",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
